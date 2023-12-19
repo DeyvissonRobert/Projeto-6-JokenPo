@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jokenpô</title>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Jokenpô</h1>
+
+        <div class="buttons">
+            <button id="rock" onclick="playHuman('rock')">&#x1F44A;&#x1F3FE;</button>
+            <button id="paper" onclick="playHuman('paper')">&#x270B;&#x1F3FE;</button>
+            <button id="scissors" onclick="playHuman('scissors')">&#x270C;&#x1F3FE;</button>
+        </div>
+        <p class="result"></p>
+
+        <p class="your-score">Sua Pontuação: <span id="human-score">0</span></p>
+        <p class="machine-score">Pontuação da Maquina: <span id="machine-score">0</span></p>
+    </div>
+
+</body>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: 0;
+    }
+
+    body {
+        background: url("https://source.unsplash.com/1600x900/?landscape'");
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+    }
+
+    .container {
+        padding: 20px;
+        background-color: #F7F9F7;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .buttons {
+        margin: 30px 0;
+        display: flex;
+        gap: 40px;
+    }
+
+    button {
+        padding: 10px;
+        font-size: 50px;
+        cursor: pointer;
+        border: none;
+        border-radius: 10px;
+        transition: opacity 0.5s ease-in-out;
+    }
+
+    button:hover {
+        opacity: 0.7;
+    }
+
+    #rock {
+        background-color: #D92274;
+    }
+
+    #paper {
+        background-color: #2DE89A;
+    }
+
+    #scissors {
+        background-color: #3690F7;
+    }
+
+    p {
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .your-score span {
+        color: #11D4DE;
+    }
+
+    .machine-score span {
+        color: #B9004A;
+    }
+
+
+</style>
+<script src="./scripts.js"></script>
+</html>
