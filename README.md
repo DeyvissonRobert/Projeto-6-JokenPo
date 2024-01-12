@@ -3,7 +3,7 @@
 # ✧ Projeto JokenPô ✧
 <br> <br>
 
-## ✧ Este é um projeto no qual convertemos um valor em Real Brasileiro para dolar, euro, libra ou bitcoin. Aprendi a faze-lo com a <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.🚀 ✧
+## ✧ Este é um projeto no qual foi criado o famoso jogo JokenPô, onde o player joga contra uma máquina. Aprendi a faze-lo com o <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.🚀 ✧
 
 ### ✧ Utilizando as linguagens ✧
 ✧ JavaScript \ HTML / CSS ✧
