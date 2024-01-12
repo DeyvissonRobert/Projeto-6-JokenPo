@@ -11,6 +11,6 @@
   </div>
 
 <div align="center" display="inline-block">
-<img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/Projeto-4-Convert-Money/blob/main/assets/Desktop%20Convert%20Money.jpg">
-<img alt="imagem do projeto no mobile" src="https://github.com/DeyvissonRobert/Projeto-4-Convert-Money/blob/main/assets/Mobile%20Convert%20Money.jpg">
+<img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/Projeto-6-JokenPo/blob/main/img/Jokenpo%20pc.png">
+<img alt="imagem do projeto no mobile" src="https://github.com/DeyvissonRobert/Projeto-6-JokenPo/blob/main/img/Jokenpo%20mobile.png">
 </div>
