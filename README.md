@@ -3,7 +3,7 @@
 # ✧ Projeto JokenPô ✧
 <br> <br>
 
-## ✧ Nesse eu fiz o famoso jogo de pedra, papel, tesoura onde você joga contra uma máquina. O resultado e o placar aparecem na tela, quando você atualiza a pagina a imagem de fundo muda.✧
+## ✧ Nesse eu fiz o famoso jogo de pedra, papel, tesoura onde você joga contra uma máquina. O resultado e o placar aparecem na tela, cada vez que você entra no site a imagem de fundo muda.✧
 
 ### ✧ Aprendi a faze-lo com o <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.🚀 ✧
 
