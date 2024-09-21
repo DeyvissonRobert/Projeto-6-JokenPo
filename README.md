@@ -3,7 +3,7 @@
 
 <div align="center">
   
-# ✧ Projeto JokenPô ✧
+# ✧ JokenPô ✧
 <br> <br>
 
 ## ✧ Nesse eu fiz o famoso jogo de pedra, papel, tesoura onde você joga contra uma máquina. O resultado e o placar aparecem na tela, cada vez que você entra no site a imagem de fundo muda.✧
